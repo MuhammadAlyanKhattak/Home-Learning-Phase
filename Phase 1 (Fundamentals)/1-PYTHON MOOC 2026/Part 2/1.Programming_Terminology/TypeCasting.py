@@ -16,8 +16,6 @@
 # Decimal part: 0.34
 
 
-
-
 # My solution written here
 usernum = float(input("Please type in a number: "))
 integernum = int(usernum)
